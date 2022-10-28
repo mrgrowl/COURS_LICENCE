@@ -1,6 +1,6 @@
-#TPF 1 RESEAU
+# TPF 1 RESEAU
 
-###Exercice 1 
+### Exercice 1 
 
 
 1.1) Les liens clignotes car des paquets sont échangés entre les deux machines 
@@ -11,5 +11,5 @@ sur le switch. Le switch les a gardé en "mémoire"
 1.3) Les paquets échangés sont des paquets ARP dans un premier temps (afin de connaitre l'adresse MAC destination associé à l'IP destination)
 et des paquet ICMP par la suite pour le ping 
 
-###Exercice 2
+### Exercice 2
 
